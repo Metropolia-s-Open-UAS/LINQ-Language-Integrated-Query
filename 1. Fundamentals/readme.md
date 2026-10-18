@@ -11,4 +11,4 @@
 
 > Before LINQ, querying data required different approaches for each data source: loops for lists, SQL for databases, and XML APIs for XML. This caused messy, hard-to-maintain code. LINQ solves this problem by providing a unified way to query any data in C# with less code and fewer errors.
 
-#### Types of LINQ Syntax
+<img src="https://github.com/Metropolia-s-Open-UAS/media/blob/main/LINQ%20(Language%20Integrated%20Query)/linq-works.webp" alt="linq work">
